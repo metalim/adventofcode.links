@@ -1,6 +1,6 @@
-# AoC solutions for all years
+# Advent of Code solutions
 
-Some of them are incomplete or just drafted
+Those are my solutions for each year of Advent of Code. Some of them are incomplete or just drafted
 
 * 2022
   * [Go](https://github.com/metalim/metalim.adventofcode.2022.go)
