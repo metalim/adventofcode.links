@@ -2,6 +2,8 @@
 
 Those are my solutions for each year of Advent of Code. Some of them are incomplete or just drafted
 
+* 2025
+  * [Go](https://github.com/metalim/adventofcode.2025.go)
 * 2024
   * [Go](https://github.com/metalim/adventofcode.2024.go)
 * 2023
